@@ -1,0 +1,15 @@
+D:\ClickLoop\bin\Debug\ClickLoop.exe.config
+D:\ClickLoop\bin\Debug\ClickLoop.exe.manifest
+D:\ClickLoop\bin\Debug\ClickLoop.application
+D:\ClickLoop\bin\Debug\ClickLoop.exe
+D:\ClickLoop\bin\Debug\ClickLoop.pdb
+D:\ClickLoop\obj\Debug\ClickLoop.csproj.AssemblyReference.cache
+D:\ClickLoop\obj\Debug\ClickLoop.csproj.SuggestedBindingRedirects.cache
+D:\ClickLoop\obj\Debug\ClickLoop.Form1.resources
+D:\ClickLoop\obj\Debug\ClickLoop.Properties.Resources.resources
+D:\ClickLoop\obj\Debug\ClickLoop.csproj.GenerateResource.cache
+D:\ClickLoop\obj\Debug\ClickLoop.csproj.CoreCompileInputs.cache
+D:\ClickLoop\obj\Debug\ClickLoop.exe.manifest
+D:\ClickLoop\obj\Debug\ClickLoop.application
+D:\ClickLoop\obj\Debug\ClickLoop.exe
+D:\ClickLoop\obj\Debug\ClickLoop.pdb
